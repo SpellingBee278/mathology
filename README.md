@@ -1,2 +1,1 @@
-# mathslogic
-# mathslogic
+# mathology
